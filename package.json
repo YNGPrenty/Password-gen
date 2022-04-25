@@ -1,6 +1,6 @@
 {
   "name": "password-gen",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "homepage": "https://theviruslogbeats.github.io/Password-gen",
   "private": true,
   "dependencies": {
